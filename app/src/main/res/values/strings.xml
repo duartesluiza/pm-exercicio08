@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BuscaCepWebServices</string>
+    <string name="app_name">ConsumirWS</string>
     <string name="enviar">Enviar</string>
     <string name="body">Body</string>
     <string name="userid">UserId</string>

@@ -1,4 +1,4 @@
-package com.example.buscacepwebservices;
+package com.example.ConsumirWS;
 
 import android.content.Context;
 
